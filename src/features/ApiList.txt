@@ -1,0 +1,11 @@
+Product Controlle
+Get all Product-done
+Add Product-done
+Get One Product-done
+Rate Product-done
+
+
+userController
+signUp-Email,name,password,typeofUser(customer/seller)
+signin-Email,password
+
